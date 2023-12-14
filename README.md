@@ -3,7 +3,7 @@
 
 # E-commerce app
 
-E-commerce app is a restaurant app for managing orders.
+E-commerce app
 
 ## Requirements
 
